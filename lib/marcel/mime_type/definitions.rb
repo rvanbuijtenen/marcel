@@ -1,5 +1,4 @@
 require 'mimemagic'
-require 'mimemagic/overlay'
 
 Marcel::MimeType.extend "text/plain", extensions: %w( txt asc )
 
