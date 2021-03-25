@@ -1,3 +1,6 @@
+# Forked because of mimemagic versions being yanked
+Until an official fix is released, i've created this fork where mimemagic is updated to version 0.4.1, which is available under an MIT license rather than mimemagic 0.3.3 which 1) does not exist anymore and 2) was distributed under what should have been a GPL-2 license. Feel free to use this version (at your own risk). I will delete the fork once an official fix is released. I do not claim the be the author of this package, nor do i claim any ownership of the content here. If for whatever reason you disagree with anything in this version, please let me know and i will take it down again.
+
 # Marcel
 
 Marcel attempts to choose the most appropriate content type for a given file by looking at the binary data, the filename, and any declared type (perhaps passed as a request header):
